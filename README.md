@@ -6,7 +6,6 @@ This repository documents the architecture and services of my personal home labo
 ## 🖥️ Hardware Specifications
 * **Servers:** * Dell PowerEdge R630
   * Dell PowerEdge R640
-  * Dell PowerEdge R720
 * **Compute/AI:** NVIDIA Tesla P4 GPU for accelerated AI workloads.
 * **Storage:** Enterprise-grade SAS/SATA storage arrays in RAID configurations.
 
